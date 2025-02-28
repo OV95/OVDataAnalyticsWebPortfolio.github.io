@@ -1,32 +1,30 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# My Data Analytics Portfolio
 
+This repository hosts my personal portfolio website, showcasing my skills and projects in the field of data analytics. 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+**[Live Website Link]https://ov95.github.io/OVDataAnalyticsWebPortfolio.github.io/**
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## About
 
-(* = not included)
+This portfolio is built with HTML, CSS, and JavaScript, and features interactive visualizations and detailed project descriptions. It demonstrates my ability to:
 
-AJ
-aj@lkn.io | @ajlkn
+* Collect, clean, and analyze data from various sources
+* Develop insightful reports and dashboards
+* Communicate data-driven findings effectively
+* Utilize tools such as SQL, Power BI, and Tableau
 
+## Projects
 
-Credits:
+Here are some of the key projects featured in this portfolio:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+* **[SQL Data Exploration Project]
+* **[Tableau Data Visualization Project]
+* **[SQL Data Cleaning Project]
+* **[Power Bi Data Visulization Project]
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Skills
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+* **Data Analysis:** Data cleaning, exploratory data analysis, statistical analysis, data visualization
+* **Tools:** SQL, Power BI, Tableau, Excel
+* **Programming:** Python (Pandas, NumPy)
+* **Visualization:** Data storytelling, dashboard design
